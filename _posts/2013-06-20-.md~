@@ -1,0 +1,14 @@
+---
+layout: post
+title: "统计会考复习"
+description: ""
+category: 
+tags: []
+---
+
+<a class="btn btn-large btn-primary" type="button" href="/file/huikao/tongji/tongyongjishuJune15.7z">通用技术会考资料</a>
+
+[ 以前的通用技术会考资料 ](/file/huikao/tongji/tongyongjishuJune7.7z)
+
+
+{% include JB/setup %}
