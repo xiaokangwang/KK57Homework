@@ -93,6 +93,8 @@ A4纸上，两个小报，一个是八卦，一个是一本书的介绍
 
 <a class="btn btn-link" type="button" href="http://sdrv.ms/15zObUn">数学必修5的西城练习册原版（无优化）</a>
 
+<a class="btn btn-link" type="button" href="/file/2013yuwen.doc">语文作业(已经包含在本页)</a>
+
 
 
 {% include JB/setup %}

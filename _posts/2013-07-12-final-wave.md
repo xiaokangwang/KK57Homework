@@ -87,6 +87,10 @@ A4纸上，两个小报，一个是八卦，一个是一本书的介绍
 
 <br />
 
+<a class="btn btn-large btn-primary" type="button" href="/file/yuwenbixiu5.pdf">语文：必修5课本第二单元,pdf版本</a>
+
+<br />
+
 <a class="btn btn-large btn-primary" type="button" href="/file/xicheng.7z">数学必修5的西城练习册答案（扫描）</a>
 
 <br />
