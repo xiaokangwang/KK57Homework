@@ -1,0 +1,103 @@
+---
+
+layout: post
+
+title: "recite set"
+
+description: ""
+
+category: 
+
+tags: []
+
+---
+
+
+
+翻译句子
+
+1. 在这个世界上生存并快乐、成功地生活意味着能与他人很好地相处，能够审时度势并以最好的方式作出反应。
+
+To get ahead in the world and lead a happy successful life means getting on with other people and being able to understand and react to the situations in the best way possible.
+
+2. 当我听到有人在背后唱歌时,我的忍耐到了极限.
+
+The last straw was when I heard someone singing behind.
+
+3．拥有热情、有活力的性格很重要。
+
+Having an enthusiastic and dynamic personality is important.
+
+4．现在越来越多不同年龄不同背景的人在不断地学习以提高自己。
+
+Nowadays, more and more people of various ages and backgrounds are continuing to study to improve themselves.
+
+5．妈妈是个坚强的人。虽然生活中有许多困难要克服，但她从不让困难打倒自己。
+
+My mother was a strong character. Although there were lots of difficulties to overcome, she never let her problems defeat her. 
+
+6．直到两个小时后我回到家时，我才发现我忘记了书。
+
+It was only when I got home two hours later that I realized I’d forgotten it. 
+
+7． 她对生活的态度永远也不会停止影响我的思想和行动。
+
+Her attitude towards life will never stop influencing my thoughts and actions. 
+
+8．教授以自己的学术研究作为依据，认为预测一个人未来的成功，其性格（可用EQ来测量），实际上比其智力的作用更为重要。
+
+Supported by his academic research, Professor Salovey suggests that when predicting someone’s future success their character, as measured by EQ tests, might actually matter more than their IQ.
+
+9．我如释重负，同意与她在这条街上的一个便利店见面。
+
+I sighed with relief and agreed to meet her at the convenience store down the road. 
+
+10．职场上，一个人的智商决定了你是否被录用，而情商决定了你能否得到提拔。
+
+At work, it is IQ that gets you hired but it is EQ that gets you promoted.
+
+11．现在我即将从清华大学的继续教育学院毕业，通过远程教育课程获得计算机工程专业的学士学位。
+
+Now I’m about to graduate from the School of Continuing Education at Qinghua University with a Bachelor’s degree in Computer Engineering by distance learning.
+
+12． 因为我拥有的新资质，我在工作上得以提升。
+
+Because of my new qualification, I’m getting promoted at work.
+
+13．我具备好的交际技能和团队精神。I have good communicative skills and team spirit.
+
+14．除了收发电子邮件，我用网上镜头看到了在美国的外孙并且同他们谈话，太有趣了。
+
+Aside from emailing, it’s fun to see and talk to my grandchildren in the US on the i-Cam.
+
+15．坦率地说，过去的四年是很艰辛的，但是值得的。
+
+Frankly speaking, the last four years have been hard work, but it’s been worth it. 
+
+16． 最终我的努力有了回报。Eventually my efforts paid off.
+
+17． 他情不自禁地哭了起来。He couldn’t help crying.
+
+18．人们经常错误地认为高智商的人也总是情商也高。
+
+People are often mistaken in thinking that those with high IQs always have high EQs as well. 
+
+19．只要我们坚持不懈，永不放弃，成功就会在那里等候我们。
+
+As long as we’re committed and never give up, success will be right there waiting for us.
+
+20． 我想我当时有点懒，现在我真希望当时能够多做些努力，特别是在英语方面。
+
+I suppose I was a bit lazy and now I wish I’d done more work, especially English.
+
+21. 人们通常认为高情商的人善于接受新事物，并对生活持积极的态度。It is generally believed that people with high EQ are open to new ideas and have positive attitudes towards life.
+
+22．我羞愧极了，为自己的粗鲁做法接连道歉。
+
+I was filled with shame and apologized several times for my rude behavior.
+
+
+
+
+
+{% include JB/setup %}
