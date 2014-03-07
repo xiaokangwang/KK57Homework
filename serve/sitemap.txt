@@ -8,6 +8,8 @@ http://username.github.io/archive.html
 http://username.github.io/categories.html
 http://username.github.io/sitemap.txt
 
+http://username.github.io/2014/03/07/3-7
+http://username.github.io/2014/02/28/2-28
 http://username.github.io/2014/01/05/1-5
 http://username.github.io/2013/12/27/12-27
 http://username.github.io/2013/12/20/12-20
